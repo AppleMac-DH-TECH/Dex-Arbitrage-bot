@@ -1,0 +1,47 @@
+{
+    "watchOnly": false,
+    "uni": {
+        "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+        "router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+    },
+    "sushi": {
+        "factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac",
+        "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F"
+    },
+    "aaveProvider": "0xb53c1a33016b2dc2ff3653530bff1848a515c8c5",
+    "balancer": {
+        "vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+    },
+    "lua": {
+        "factory": "0x0388c1e0f210abae597b7de712b9510c6c36c857",
+        "router": "0x1d5C6F1607A171Ad52EFB270121331b3039dD83e"
+    },
+    "WETH": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "DAI": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+    "UNI": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "USDC": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "LINK": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "COMP": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "FEI": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+    "TRIBE": "0x9928e4046d7c6513326ccea028cd3e7a91c7590a",
+    "USDT": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "WISE": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+    "WBTC": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "UNI": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "SHIB": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "FNK": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
+    "SAND": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "AAVE": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "SUSHI": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "YFI": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "OHM": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+    "SNX": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "CRV": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "TOMOE": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+    "BAL": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "PAR": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+    "REN": "0x408e41876cCCDC0F92210600ef50372656052a38",
+    "MATIC": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "GTC": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+    "BAT": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+}

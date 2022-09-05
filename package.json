@@ -1,0 +1,40 @@
+{
+  "name": "dex-abitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./scripts/run.js",
+  "scripts": {
+    "start": "npx hardhat --network main run src/app.ts",
+    "pm2start": "pm2 start --time -l pmlog.txt --name \"bot\" npm -- run start",
+    "test": "npx hardhat test"
+  },
+  "author": "Alex Tkachenko",
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "dotenv": "^10.0.0",
+    "hardhat": "^2.8.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@balancer-labs/sor": "^1.0.0",
+    "@balancer-labs/v2-pool-weighted": "^1.0.0",
+    "@balancer-labs/v2-vault": "^1.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.1.0",
+    "@types/chai": "^4.2.21",
+    "@types/mocha": "^8.2.3",
+    "@types/node": "^16.3.2",
+    "bignumber.js": "^9.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.3.1",
+    "ts-node": "^10.1.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.6.2"
+  }
+}
